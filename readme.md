@@ -3,6 +3,6 @@
 
 ### Team
 |![sh](./contributor/sh.jpg)|![hs](./contributor/hs.jpg)|
-|:----:||:----:|
+|---|----|
 | SEOCKHUN BAE | HYUCKSOON JANG |
 
